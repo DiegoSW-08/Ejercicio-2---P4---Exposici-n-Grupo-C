@@ -1,2 +1,2 @@
-# Ejercicio-2---P4---Exposici-n-Grupo-C
+# Ejercicio2-Parte4-ExposiciónGrupoC
 Repositorio para subir la actividad de la exposición del Grupo C
